@@ -1,0 +1,16 @@
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/bin/Debug/netcoreapp2.2/asp-net-core-book-api.deps.json
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/bin/Debug/netcoreapp2.2/asp-net-core-book-api.runtimeconfig.json
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/bin/Debug/netcoreapp2.2/asp-net-core-book-api.runtimeconfig.dev.json
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/bin/Debug/netcoreapp2.2/asp-net-core-book-api.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/bin/Debug/netcoreapp2.2/asp-net-core-book-api.pdb
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/obj/Debug/netcoreapp2.2/asp-net-core-book-api.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/obj/Debug/netcoreapp2.2/asp-net-core-book-api.RazorAssemblyInfo.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/obj/Debug/netcoreapp2.2/asp-net-core-book-api.RazorAssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/obj/Debug/netcoreapp2.2/asp-net-core-book-api.AssemblyInfoInputs.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/obj/Debug/netcoreapp2.2/asp-net-core-book-api.AssemblyInfo.cs
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/obj/Debug/netcoreapp2.2/asp-net-core-book-api.RazorTargetAssemblyInfo.cache
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/obj/Debug/netcoreapp2.2/asp-net-core-book-api.dll
+/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/obj/Debug/netcoreapp2.2/asp-net-core-book-api.pdb

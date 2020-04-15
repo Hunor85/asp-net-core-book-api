@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{4EAF1B5D-B9E7-4086-A25C-6EBCE8D811C4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20200229194448_InitCreate.cs">
-    <Files>
-      <File FileName="Migrations/20200229194448_InitCreate.cs" Line="1" Column="1" />
-      <File FileName="Migrations/BookDBContextModelSnapshot.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="asp-net-core-book-api" expanded="True">
-            <Node name="asp-net-core-book-api" expanded="True" />
+            <Node name="asp-net-core-book-api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

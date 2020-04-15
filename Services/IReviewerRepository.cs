@@ -5,16 +5,15 @@ namespace asp_net_core_book_api.Services
 {
     public interface IReviewerRepository
     {
-        ICollection<Review> GetReviews();
-        Review GetReview(int reviewId);
-        ICollection<Review> GetReviewsOfABook(int bookId);
-        Book GetBookOfAReview(int reviewId);
-        bool ReviewExists(int reviewId);
+        ICollection<Reviewer> GetReviewers();
+        Reviewer GetReviewer(int reviewerId);
+        ICollection<Review> GetReviewsByReviewer(int reviewerId);
+        Reviewer GetReviewerOfAReview(int reviewId);
+        bool ReviewerExists(int reviewerId);
 
-        /*bool CreateReview(Review review);
-        bool UpdateReview(Review review);
-        bool DeleteReview(Review review);
-        bool DeleteReviews(List<Review> reviews);
-        bool Save();*/
+        bool CreateReviewer(Reviewer reviewer);
+        bool UpdateReviewer(Reviewer reviewer);
+        bool DeleteReviewer(Reviewer reviewer);
+        bool Save();
     }
 }

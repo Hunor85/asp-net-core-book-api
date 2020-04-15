@@ -13,11 +13,8 @@
         "packagesPath": "/Users/hunorvadasz-perhat/.nuget/packages/",
         "outputPath": "/Users/hunorvadasz-perhat/Documents/GitHub/asp-net-core-book-api/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/hunorvadasz-perhat/.nuget/NuGet/NuGet.Config"
+          "/Users/hunorvadasz-perhat/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -75,7 +72,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }
